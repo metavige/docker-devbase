@@ -17,7 +17,7 @@ RUN \
     \
     \ 
     # install apt
-    apt-get install -y vim curl wget build-essential make && \
+    apt-get install -y vim curl wget build-essential make libcurl4-openssl-dev && \
     \
     \ 
     # clean cache files
