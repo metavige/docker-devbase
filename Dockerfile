@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty
 MAINTAINER Ricky Chiang metavige@gmail.com
 
 # environment
